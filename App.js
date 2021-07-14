@@ -102,7 +102,7 @@ const styles = StyleSheet.create({
     fontWeight: 'bold',
   },
   imageIcon: {
-    width: 150,
+    width: 151,
     height: 150,
     marginLeft: 95,
   }
